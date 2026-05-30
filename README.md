@@ -3,12 +3,7 @@
 An Excel-based interactive dashboard that visualizes sales performance, shipping metrics, and customer insights across product categories and US states — covering data from **2014 to 2017**.
 
 ---
-
-## 🎬 Demo Video
-
-https://github.com/omprakashbest/Excel-Sales-Shipping-Dashboard/raw/main/Sales_Dashboard_Video.mp4
-
-> ▶️ Click the link above to watch the dashboard walkthrough. To embed inline, upload to YouTube and replace this link with the video URL.
+[Dashboard Image](./Dashboard_Image.png)
 
 ---
 
