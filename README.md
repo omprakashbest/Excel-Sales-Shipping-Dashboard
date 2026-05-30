@@ -3,7 +3,7 @@
 An Excel-based interactive dashboard that visualizes sales performance, shipping metrics, and customer insights across product categories and US states — covering data from **2014 to 2017**.
 
 ---
-[Dashboard Image](./Dashboard_Image.png)
+![Dashboard Preview](./Dashboard_Image.png)
 
 ---
 
