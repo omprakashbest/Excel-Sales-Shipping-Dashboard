@@ -79,16 +79,3 @@ The workbook contains the following sheets:
 4. The **Dimension Tables** sheet provides reference lookups for SKUs, customers, states, and priority codes.
 
 ---
-
-## 📂 Potential Enhancements
-
-- Migrate to **Power BI** or **Tableau** for interactive filtering and drill-down
-- Connect to a live database instead of static pivot tables
-- Add slicers to the Dashboard sheet for year/quarter filtering
-- Expand geographic map visualization with a filled choropleth map
-
----
-
-## 📄 License
-
-This project is for educational/portfolio purposes.
